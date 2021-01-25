@@ -10,7 +10,7 @@ public class Book {
 		this.title= title;
 		this.author= author;
 	}
-	
+	//A comment just to test if Jenkins builds automaticly now
 	public String isbn() {
 		return isbn;
 	}
